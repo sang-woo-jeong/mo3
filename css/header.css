@@ -5,7 +5,7 @@ header article {color:black; text-align:center; width:29%;
                 position:relative; left:50%; top:50%;
                 transform:translate(-50%,-50%);}
 header article h1 {font-size:3em; font-weight:700;}
-header article h3 {margin-top:15px; line-height:180%; font-size:1.2em; font-weight: 400;}
+header article h3 {margin-top:15px; line-height:180%; font-size:1vw; font-weight: 400;}
 @media(max-width:512px){
   header article {width:90%;}
   header article h1 {font-size:2.5em;}
